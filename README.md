@@ -1,5 +1,13 @@
 # Análise de Sentimentos de Tweets
 
+## Integrantes do Grupo
+- Victor Fanfoni RM-99173
+- Helena Paixão RM-550929
+- Gustavo Costa RM-99102
+- Julia Nery RM-552292
+- Giulia Pina RM-97694
+
+  
 ## Descrição da Ideia
 
 Este projeto tem como objetivo realizar a análise de sentimentos em tweets utilizando técnicas de Processamento de Linguagem Natural (NLP) e aprendizado de máquina. A análise de sentimentos é uma área que busca identificar e extrair opiniões, emoções ou atitudes expressas em textos. Neste caso, vamos aplicar essas técnicas para classificar tweets como positivos, negativos ou neutros.
